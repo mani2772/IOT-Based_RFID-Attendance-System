@@ -28,7 +28,7 @@ Copy code
 - IoT Cloud (Firebase/MQTT/ThingSpeak) → Stores attendance logs  
 - Web/Mobile Dashboard → Displays attendance records  
 
-![System Block Diagram](../RFID_Attendance_system/circuit_diagram.png)  
+![System Block Diagram](./RFID_Attendance_system/circuit_diagram.png)  
 
 ---
 
